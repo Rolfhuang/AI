@@ -1,0 +1,16 @@
+test_bi_a_star_euclidean_romania - Valid paths tests passed.
+Path ['u', 'b', 'f', 's'] for goal nodes ('u', 's') does not match reference. Path cost was 395 and expected path cost was 363. Expected path is ['u', 'b', 'p', 'r', 's']
+Path ['z', 'a', 's', 'f', 'b', 'u', 'v', 'i'] for goal nodes ('z', 'i') does not match reference. Path cost was 844 and expected path cost was 812. Expected path is ['z', 'a', 's', 'r', 'p', 'b', 'u', 'v', 'i']
+Path ['n', 'i', 'v', 'u', 'b', 'f', 's', 'a'] for goal nodes ('n', 'a') does not match reference. Path cost was 856 and expected path cost was 824. Expected path is ['n', 'i', 'v', 'u', 'b', 'p', 'r', 's', 'a']
+Path ['s', 'f', 'b', 'u'] for goal nodes ('s', 'u') does not match reference. Path cost was 395 and expected path cost was 363. Expected path is ['s', 'r', 'p', 'b', 'u']
+Path ['z', 'a', 's', 'f', 'b', 'u', 'v'] for goal nodes ('z', 'v') does not match reference. Path cost was 752 and expected path cost was 720. Expected path is ['z', 'a', 's', 'r', 'p', 'b', 'u', 'v']
+Path ['o', 'z', 'a', 't', 'l', 'm', 'd'] for goal nodes ('o', 'd') does not match reference. Path cost was 520 and expected path cost was 497. Expected path is ['o', 's', 'r', 'c', 'd']
+Path ['i', 'v', 'u', 'b', 'f', 's', 'a', 'z'] for goal nodes ('i', 'z') does not match reference. Path cost was 844 and expected path cost was 812. Expected path is ['i', 'v', 'u', 'b', 'p', 'r', 's', 'a', 'z']
+Path ['h', 'u', 'b', 'f', 's', 'o'] for goal nodes ('h', 'o') does not match reference. Path cost was 644 and expected path cost was 612. Expected path is ['h', 'u', 'b', 'p', 'r', 's', 'o']
+Path ['a', 's', 'f', 'b', 'u', 'h'] for goal nodes ('a', 'h') does not match reference. Path cost was 633 and expected path cost was 601. Expected path is ['a', 's', 'r', 'p', 'b', 'u', 'h']
+Path ['h', 'u', 'b', 'f', 's', 'a'] for goal nodes ('h', 'a') does not match reference. Path cost was 633 and expected path cost was 601. Expected path is ['h', 'u', 'b', 'p', 'r', 's', 'a']
+Path ['a', 's', 'f', 'b', 'u', 'v', 'i', 'n'] for goal nodes ('a', 'n') does not match reference. Path cost was 856 and expected path cost was 824. Expected path is ['a', 's', 'r', 'p', 'b', 'u', 'v', 'i', 'n']
+Path ['v', 'u', 'b', 'f', 's', 'a', 'z'] for goal nodes ('v', 'z') does not match reference. Path cost was 752 and expected path cost was 720. Expected path is ['v', 'u', 'b', 'p', 'r', 's', 'a', 'z']
+Path ['d', 'm', 'l', 't', 'a', 'z', 'o'] for goal nodes ('d', 'o') does not match reference. Path cost was 520 and expected path cost was 497. Expected path is ['d', 'c', 'r', 's', 'o']
+Path ['o', 's', 'f', 'b', 'u', 'h'] for goal nodes ('o', 'h') does not match reference. Path cost was 644 and expected path cost was 612. Expected path is ['o', 's', 'r', 'p', 'b', 'u', 'h']
+test_bi_a_star_euclidean_romania - 14 tests failed.

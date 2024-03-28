@@ -1,0 +1,160 @@
+Path ['g', 'b', 'p', 'c', 'p', 'b', 'g', 'b', 'u'] for goal nodes ('g', 'c', 'v') is not a valid path
+Path ['u', 'b', 'p', 'c', 'd', 'm', 'd', 'c', 'p', 'b', 'u', 'b', 'p', 'c', 'd', 'm'] for goal nodes ('u', 'm', 'v') is not a valid path
+Path ['z', 'a', 't', 'l', 'm', 'd', 'm', 'l', 't', 'a', 'z', 'a', 't', 'l', 'm', 'd'] for goal nodes ('z', 'd', 'o') is not a valid path
+Path ['z', 'a', 's', 'r', 'p', 'b', 'u', 'b', 'p', 'r', 's', 'a', 'z', 'a', 't', 'l'] for goal nodes ('z', 'u', 'm') is not a valid path
+Path ['s', 'r', 'p', 'b', 'u', 'b', 'p', 'r', 's', 'f', 'b', 'u'] for goal nodes ('s', 'u', 'c') is not a valid path
+Path ['d', 'c', 'p', 'b', 'u', 'h'] for goal nodes ('d', 'e', 'h') is not a valid path
+Path ['t', 'a', 's', 'r', 'p', 'b', 'g', 'b', 'p', 'r', 's', 'a', 't', 'a', 's', 'r', 'p', 'b', 'g'] for goal nodes ('t', 'g', 'h') is not a valid path
+Path ['z', 'a', 's', 'r', 'p', 'b', 'p', 'r', 's', 'a', 'z', 'a', 's', 'r', 'p', 'b'] for goal nodes ('z', 'b', 'o') is not a valid path
+Path ['d', 'c', 'r', 'c', 'd', 'c', 'r'] for goal nodes ('d', 'r', 'l') is not a valid path
+Path ['p', 'r', 'c', 'r', 'p', 'c'] for goal nodes ('p', 'c', 'd') is not a valid path
+Path ['d', 'c', 'p', 'b', 'u', 'h', 'e', 'h', 'u', 'b', 'p', 'c', 'd', 'c', 'p', 'b', 'u', 'h', 'e'] for goal nodes ('d', 'e', 'v') is not a valid path
+Path ['u', 'v', 'i'] for goal nodes ('b', 'u', 'i') is not a valid path
+Path ['f', 's', 'r', 'c', 'r', 's', 'f', 's', 'r', 'c'] for goal nodes ('f', 'c', 'o') is not a valid path
+Path ['m', 'd', 'c', 'p', 'b', 'u', 'v'] for goal nodes ('m', 'i', 'v') is not a valid path
+Path ['z', 'a', 's', 'r', 'p', 'b', 'p', 'r', 's', 'a', 'z', 'a', 's', 'r', 'p', 'b'] for goal nodes ('z', 'b', 'g') is not a valid path
+Path ['u', 'b', 'p', 'b', 'u', 'b', 'p'] for goal nodes ('u', 'p', 'h') is not a valid path
+Path ['s', 'r', 'p', 'b', 'u', 'v', 'i', 'n', 'i', 'v', 'u', 'b', 'p', 'r', 's', 'r', 's'] for goal nodes ('s', 'n', 'o') is not a valid path
+Path ['c', 'p', 'b', 'u', 'v', 'u', 'b', 'p', 'c', 'r', 's'] for goal nodes ('c', 'v', 'o') is not a valid path
+Path ['u', 'b', 'p', 'c', 'd', 'c', 'p', 'b', 'u', 'h', 'e'] for goal nodes ('u', 'd', 'r') is not a valid path
+Path ['h', 'u', 'v', 'i', 'v', 'u', 'h', 'u', 'v', 'i'] for goal nodes ('h', 'i', 'n') is not a valid path
+Path ['a', 's', 'r', 'p', 'b', 'u', 'v', 'u', 'b', 'p', 'r', 's', 'a', 's', 'f', 'b', 'u', 'v'] for goal nodes ('a', 'v', 'n') is not a valid path
+Path ['g', 'b', 'p', 'c', 'd', 'c', 'p', 'b', 'g', 'b', 'p', 'c', 'd'] for goal nodes ('g', 'd', 'm') is not a valid path
+Path ['a', 't', 'l', 'm', 'd', 'm', 'l', 't', 'a', 's'] for goal nodes ('a', 'd', 'o') is not a valid path
+Path ['c', 'p', 'b', 'u', 'v', 'i', 'v', 'u', 'b', 'p', 'c', 'r', 's'] for goal nodes ('c', 'i', 'l') is not a valid path
+Path ['p', 'b', 'g', 'b', 'p', 'r'] for goal nodes ('p', 'g', 'f') is not a valid path
+Path ['s', 'r', 'p', 'b', 'u', 'b', 'p', 'r', 's', 'f', 'b', 'u'] for goal nodes ('s', 'u', 'h') is not a valid path
+Path ['a', 't', 'l', 't', 'a', 't', 'l'] for goal nodes ('a', 'l', 'o') is not a valid path
+Path ['p', 'b', 'u', 'v', 'i', 'v', 'u', 'b', 'p', 'r', 's'] for goal nodes ('p', 'i', 'v') is not a valid path
+Path ['u', 'b', 'f', 'b', 'u', 'b', 'f'] for goal nodes ('u', 'f', 'r') is not a valid path
+Path ['t', 'l', 'm'] for goal nodes ('a', 't', 'm') is not a valid path
+Path ['f', 's', 'r', 'c', 'd', 'c', 'r', 's', 'f', 's', 'r', 'c', 'd'] for goal nodes ('f', 'd', 'o') is not a valid path
+Path ['a', 's', 'r', 'p', 'b', 'u', 'b', 'p', 'r', 's', 'a', 't', 'l'] for goal nodes ('a', 'u', 'i') is not a valid path
+Path ['p', 'b', 'u', 'h', 'e', 'h', 'u', 'b', 'p', 'c'] for goal nodes ('p', 'e', 'v') is not a valid path
+Path ['z', 'a', 's', 'r', 'p', 'b', 'g', 'b', 'p', 'r', 's', 'a', 'z', 'a', 's', 'r', 'p', 'b', 'g'] for goal nodes ('z', 'g', 'c') is not a valid path
+Path ['s', 'r', 'p', 'r', 's', 'r', 'p'] for goal nodes ('s', 'p', 'c') is not a valid path
+Path ['v', 'u', 'b', 'p', 'c', 'd', 'm', 'l', 'm', 'd', 'c', 'p', 'b', 'u', 'v', 'u', 'b', 'p', 'c', 'd', 'm', 'l'] for goal nodes ('v', 'l', 'o') is not a valid path
+Path ['s', 'r', 'p', 'b', 'u', 'v', 'u', 'b', 'p', 'r', 's', 'r', 's'] for goal nodes ('s', 'v', 'o') is not a valid path
+Path ['u', 'h', 'e'] for goal nodes ('b', 'u', 'e') is not a valid path
+Path ['z', 'a', 's', 'r', 'p', 'b', 'u', 'b', 'p', 'r', 's', 'a', 'z', 'a', 't', 'l'] for goal nodes ('z', 'u', 'f') is not a valid path
+Path ['t', 'a', 's', 'r', 'p', 'r', 's', 'a', 't', 'a', 'z'] for goal nodes ('t', 'p', 'f') is not a valid path
+Path ['t', 'a', 's', 'r', 'p'] for goal nodes ('t', 'b', 'p') is not a valid path
+Path ['t', 'a', 's', 'r', 'p', 'b', 'p', 'r', 's', 'a', 't', 'a', 's', 'r', 'p', 'b'] for goal nodes ('t', 'b', 'f') is not a valid path
+Path ['s', 'a', 't', 'a', 's', 'f'] for goal nodes ('s', 't', 'o') is not a valid path
+Path ['f', 's', 'r', 'c', 'd'] for goal nodes ('f', 'm', 'l') is not a valid path
+Path ['d', 'c', 'p', 'b', 'u', 'v', 'i', 'v', 'u', 'b', 'p', 'c', 'd', 'c', 'p', 'b', 'u', 'v', 'i'] for goal nodes ('d', 'i', 'l') is not a valid path
+Path ['a', 's', 'r', 'p', 'b', 'u', 'h', 'u', 'b', 'p', 'r', 's', 'a', 't', 'l'] for goal nodes ('a', 'h', 'i') is not a valid path
+Path ['m', 'd', 'c', 'p', 'b', 'u', 'h', 'u', 'b', 'p', 'c', 'd', 'm', 'd', 'c', 'p', 'b', 'u', 'h'] for goal nodes ('m', 'h', 'i') is not a valid path
+Path ['p', 'c', 'd', 'm', 'l', 'm', 'd', 'c', 'p', 'r', 's'] for goal nodes ('p', 'l', 'o') is not a valid path
+Path ['z', 'a', 's', 'r', 'p', 'r', 's', 'a', 'z', 'a', 't'] for goal nodes ('z', 'p', 'o') is not a valid path
+Path ['c', 'p', 'b', 'u', 'h', 'e', 'h', 'u', 'b', 'p', 'c', 'd', 'm'] for goal nodes ('c', 'e', 'v') is not a valid path
+Path ['r', 'p', 'b', 'u', 'h', 'e'] for goal nodes ('s', 'r', 'e') is not a valid path
+Path ['t', 'a', 's', 'r', 'p', 'b', 'u', 'v', 'i', 'v', 'u', 'b', 'p', 'r', 's', 'a', 't', 'a', 's', 'r', 'p', 'b', 'u', 'v', 'i'] for goal nodes ('t', 'i', 'n') is not a valid path
+Path ['u', 'b', 'p', 'c', 'd', 'c', 'p', 'b', 'u', 'h', 'e'] for goal nodes ('u', 'd', 'm') is not a valid path
+Path ['a', 's', 'r', 'p', 'b', 'p', 'r', 's', 'a', 's', 'r', 'p', 'b'] for goal nodes ('a', 'b', 'u') is not a valid path
+Path ['t', 'a', 's', 'r', 'p', 'r', 's', 'a', 't', 'a', 'z'] for goal nodes ('t', 'p', 'c') is not a valid path
+Path ['a', 's', 'r', 'p', 'b', 'g', 'b', 'p', 'r', 's', 'a', 's', 'r', 'p', 'b', 'g'] for goal nodes ('a', 'g', 'v') is not a valid path
+Path ['r', 'p', 'b', 'u', 'h', 'u', 'b', 'p', 'r', 's', 'r'] for goal nodes ('r', 'h', 'o') is not a valid path
+Path ['u', 'b', 'p', 'b', 'u', 'b', 'p'] for goal nodes ('u', 'p', 'f') is not a valid path
+Path ['s', 'r', 'p', 'b', 'u', 'v', 'u', 'b', 'p', 'r', 's', 'r', 's'] for goal nodes ('s', 'v', 'n') is not a valid path
+Path ['f', 'b', 'u', 'v'] for goal nodes ('s', 'f', 'v') is not a valid path
+Path ['u', 'b', 'p', 'c', 'd', 'm', 'd', 'c', 'p', 'b', 'u', 'b', 'p', 'c', 'd', 'm'] for goal nodes ('u', 'm', 'h') is not a valid path
+Path ['t', 'a', 's', 'r', 'p', 'b', 'u', 'b', 'p', 'r', 's', 'a', 't', 'a', 's', 'r', 'p', 'b', 'u'] for goal nodes ('t', 'u', 'f') is not a valid path
+Path ['m', 'l', 't', 'a', 'z', 'o'] for goal nodes ('d', 'm', 'o') is not a valid path
+Path ['t', 'a', 's', 'r', 'p', 'b', 'g', 'b', 'p', 'r', 's', 'a', 't', 'a', 's', 'r', 'p', 'b', 'g'] for goal nodes ('t', 'g', 'o') is not a valid path
+Path ['u', 'b', 'p', 'c', 'p', 'b', 'u', 'h'] for goal nodes ('u', 'c', 'v') is not a valid path
+Path ['f', 's', 'r'] for goal nodes ('b', 'f', 'r') is not a valid path
+Path ['s', 'r', 'c', 'r', 's', 'r', 'c'] for goal nodes ('s', 'c', 'o') is not a valid path
+Path ['u', 'b', 'f', 'b', 'u', 'b', 'f'] for goal nodes ('u', 'f', 'h') is not a valid path
+Path ['a', 's', 'r', 'c', 'r', 's', 'a', 's', 'r', 'c'] for goal nodes ('a', 'c', 'm') is not a valid path
+Path ['a', 't', 'l', 'm', 'd', 'm', 'l', 't', 'a', 's'] for goal nodes ('a', 'd', 'm') is not a valid path
+Path ['v', 'u', 'b', 'p', 'r', 's', 'o'] for goal nodes ('i', 'v', 'o') is not a valid path
+Path ['d', 'c', 'r', 'c', 'd', 'c', 'r'] for goal nodes ('d', 'r', 'm') is not a valid path
+Path ['v'] for goal nodes ('i', 'v', 'n') is not a valid path
+Path ['s', 'r', 'p', 'b', 'g'] for goal nodes ('a', 's', 'g') is not a valid path
+Path ['z', 'a', 's', 'r', 'p', 'b', 'u', 'b', 'p', 'r', 's', 'a', 'z', 'a', 't', 'l'] for goal nodes ('z', 'u', 'r') is not a valid path
+Path ['s', 'r', 'p', 'b', 'p', 'r', 's', 'f', 'b'] for goal nodes ('s', 'b', 'g') is not a valid path
+Path ['r', 'p', 'b', 'u', 'v'] for goal nodes ('s', 'r', 'v') is not a valid path
+Path ['a', 't', 'l', 'm', 'l', 't', 'a', 't', 'l', 'm'] for goal nodes ('a', 'm', 'o') is not a valid path
+Path ['a', 's', 'r', 'p'] for goal nodes ('a', 'b', 'p') is not a valid path
+Path ['m', 'd', 'c', 'p', 'b', 'u', 'v', 'u', 'b', 'p', 'c', 'd', 'm', 'd', 'c', 'p', 'b', 'u', 'v'] for goal nodes ('m', 'v', 'l') is not a valid path
+Path ['t', 'l', 'm', 'd', 'c', 'd', 'm', 'l', 't', 'l', 'm', 'd', 'c'] for goal nodes ('t', 'c', 'r') is not a valid path
+Path ['m', 'd', 'c', 'p', 'b', 'u', 'v', 'u', 'b', 'p', 'c', 'd', 'm', 'd', 'c', 'p', 'b', 'u', 'v'] for goal nodes ('m', 'v', 'n') is not a valid path
+Path ['a', 's', 'r', 'c', 'r', 's', 'a', 's', 'r', 'c'] for goal nodes ('a', 'c', 'o') is not a valid path
+Path ['t', 'a', 's', 'r', 'p', 'b', 'u', 'v', 'i', 'n', 'i', 'v', 'u', 'b', 'p', 'r', 's', 'a', 't', 'a', 's', 'r', 'p', 'b', 'u', 'v', 'i', 'n'] for goal nodes ('t', 'n', 'l') is not a valid path
+Path ['a', 's', 'r', 'p', 'b', 'g', 'b', 'p', 'r', 's', 'a', 's', 'r', 'p', 'b', 'g'] for goal nodes ('a', 'g', 'l') is not a valid path
+Path ['r', 'p', 'b', 'u', 'v', 'i'] for goal nodes ('s', 'r', 'i') is not a valid path
+Path ['f', 's', 'r', 'c', 'd', 'c', 'r', 's', 'f', 's', 'r', 'c', 'd'] for goal nodes ('f', 'd', 'l') is not a valid path
+Path ['t', 'a', 's', 'r', 'p', 'b', 'u', 'v', 'u', 'b', 'p', 'r', 's', 'a', 't', 'a', 's', 'r', 'p', 'b', 'u', 'v'] for goal nodes ('t', 'v', 'n') is not a valid path
+Path ['r', 'p', 'b', 'u', 'v', 'i', 'n', 'i', 'v', 'u', 'b', 'p', 'r', 's', 'f', 'b', 'u', 'v', 'i', 'n'] for goal nodes ('r', 'n', 'o') is not a valid path
+Path ['a', 's', 'r', 'p', 'b', 'u', 'b', 'p', 'r', 's', 'a', 't', 'l'] for goal nodes ('a', 'u', 'c') is not a valid path
+Path ['z', 'a', 's', 'r', 'p', 'r', 's', 'a', 'z', 'a', 't'] for goal nodes ('z', 'p', 'g') is not a valid path
+Path ['r', 'p', 'b', 'u', 'v'] for goal nodes ('r', 'i', 'v') is not a valid path
+Path ['g', 'b', 'p', 'c', 'd', 'c', 'p', 'b', 'g', 'b', 'p', 'c', 'd'] for goal nodes ('g', 'd', 'h') is not a valid path
+Path ['a', 's', 'r', 'c', 'r', 's', 'a', 's', 'r', 'c'] for goal nodes ('a', 'c', 'd') is not a valid path
+Path ['a', 's', 'r', 'p', 'r', 's', 'a', 's', 'r', 'p'] for goal nodes ('a', 'p', 'd') is not a valid path
+Path ['z', 'a', 's', 'a', 'z', 'o', 's'] for goal nodes ('z', 's', 'p') is not a valid path
+Path ['d'] for goal nodes ('c', 'd', 'r') is not a valid path
+Path ['z', 'a'] for goal nodes ('z', 's', 'o') is not a valid path
+Path ['s', 'r', 'p', 'b', 'g', 'b', 'p', 'r', 's', 'f', 'b', 'g'] for goal nodes ('s', 'g', 'o') is not a valid path
+Path ['a', 's', 'r', 'p', 'b', 'u', 'v', 'i', 'v', 'u', 'b', 'p', 'r', 's', 'a', 's', 'f', 'b', 'u', 'v', 'i'] for goal nodes ('a', 'i', 'l') is not a valid path
+Path ['f', 's', 'r', 'c', 'r', 's', 'f', 's', 'r', 'c'] for goal nodes ('f', 'c', 'm') is not a valid path
+Path ['a', 's', 'r', 'p', 'b', 'p', 'r', 's', 'a', 's', 'r', 'p', 'b'] for goal nodes ('a', 'b', 'o') is not a valid path
+Path ['p', 'r', 's', 'o'] for goal nodes ('b', 'p', 'o') is not a valid path
+Path ['v', 'u', 'b', 'p', 'c', 'd', 'm', 'l'] for goal nodes ('i', 'v', 'l') is not a valid path
+Path ['g', 'b', 'p', 'r', 'p', 'b', 'g', 'b', 'u'] for goal nodes ('g', 'r', 'h') is not a valid path
+Path ['a', 's', 'r', 'p', 'b', 'p', 'r', 's', 'a', 's', 'r', 'p', 'b'] for goal nodes ('a', 'b', 'h') is not a valid path
+Path ['z', 'a', 's', 'r', 'p', 'b', 'p', 'r', 's', 'a', 'z', 'a', 's', 'r', 'p', 'b'] for goal nodes ('z', 'b', 'u') is not a valid path
+Path ['f', 'b', 'u', 'v', 'i'] for goal nodes ('s', 'f', 'i') is not a valid path
+Path ['s'] for goal nodes ('a', 's', 'o') is not a valid path
+Path ['f', 'b', 'u', 'v', 'i', 'v', 'u', 'b', 'f', 'b', 'u', 'v', 'i'] for goal nodes ('f', 'i', 'o') is not a valid path
+Path ['d', 'c', 'p', 'b', 'u', 'h', 'u', 'b', 'p', 'c', 'd', 'c', 'p', 'b', 'u', 'h'] for goal nodes ('d', 'h', 'l') is not a valid path
+Path ['a', 's', 'r', 'c', 'r', 's', 'a', 's', 'r', 'c'] for goal nodes ('a', 'c', 'l') is not a valid path
+Path ['z'] for goal nodes ('a', 'z', 's') is not a valid path
+Path ['p', 'r', 's', 'f', 's', 'r', 'p', 'r', 's', 'f'] for goal nodes ('p', 'f', 'o') is not a valid path
+Path ['a', 's', 'r', 's', 'a', 'z'] for goal nodes ('a', 'r', 'o') is not a valid path
+Path ['t', 'a', 's', 'r', 'p', 'b', 'u', 'b', 'p', 'r', 's', 'a', 't', 'a', 's', 'r', 'p', 'b', 'u'] for goal nodes ('t', 'u', 'n') is not a valid path
+Path ['t', 'a', 's', 'r', 'p', 'b', 'p', 'r', 's', 'a', 't', 'a', 's', 'r', 'p', 'b'] for goal nodes ('t', 'b', 'l') is not a valid path
+Path ['h', 'u', 'b', 'p', 'c', 'd', 'm', 'l'] for goal nodes ('e', 'h', 'l') is not a valid path
+Path ['g'] for goal nodes ('b', 'g', 'f') is not a valid path
+Path ['s', 'r', 'p', 'b', 'u', 'b', 'p', 'r', 's', 'f', 'b', 'u'] for goal nodes ('s', 'u', 'e') is not a valid path
+Path ['z', 'a', 's', 'r', 'p', 'b', 'u', 'v', 'i', 'v', 'u', 'b', 'p', 'r', 's', 'a', 'z', 'a', 's', 'f', 'b', 'u', 'v', 'i'] for goal nodes ('z', 'i', 'n') is not a valid path
+Path ['m', 'd', 'c', 'p', 'b', 'u', 'h', 'e', 'h', 'u', 'b', 'p', 'c', 'd', 'm', 'd', 'c', 'p', 'b', 'u', 'h', 'e'] for goal nodes ('m', 'e', 'v') is not a valid path
+Path ['s', 'r', 'p', 'b', 'p', 'r', 's', 'f', 'b'] for goal nodes ('s', 'b', 'h') is not a valid path
+Path ['s', 'r', 'p', 'b', 'u', 'b', 'p', 'r', 's', 'f', 'b', 'u'] for goal nodes ('s', 'u', 'v') is not a valid path
+Path ['t', 'l'] for goal nodes ('t', 'm', 'l') is not a valid path
+Path ['g', 'b', 'u', 'h'] for goal nodes ('g', 'e', 'h') is not a valid path
+Path ['b', 'p', 'c', 'd', 'c', 'p', 'b', 'p', 'c', 'd'] for goal nodes ('b', 'd', 'v') is not a valid path
+Path ['p'] for goal nodes ('b', 'p', 'r') is not a valid path
+Path ['a', 's', 'r', 'p', 'b', 'u', 'v', 'i', 'n', 'i', 'v', 'u', 'b', 'p', 'r', 's', 'a', 's', 'f', 'b', 'u', 'v', 'i', 'n'] for goal nodes ('a', 'n', 'o') is not a valid path
+Path ['a', 's', 'r', 'p', 'b', 'g', 'b', 'p', 'r', 's', 'a', 's', 'r', 'p', 'b', 'g'] for goal nodes ('a', 'g', 'c') is not a valid path
+Path ['f'] for goal nodes ('s', 'f', 'r') is not a valid path
+Path ['t', 'a', 's', 'f', 's', 'a', 't', 'a', 's', 'f'] for goal nodes ('t', 'f', 'l') is not a valid path
+Path ['t', 'a', 's', 'r', 'p', 'b', 'g', 'b', 'p', 'r', 's', 'a', 't', 'a', 's', 'r', 'p', 'b', 'g'] for goal nodes ('t', 'g', 'c') is not a valid path
+Path ['z', 'a', 's', 'r', 'p', 'b', 'g', 'b', 'p', 'r', 's', 'a', 'z', 'a', 's', 'r', 'p', 'b', 'g'] for goal nodes ('z', 'g', 'v') is not a valid path
+Path ['u'] for goal nodes ('b', 'u', 'h') is not a valid path
+Path ['s', 'r', 'p', 'b', 'g', 'b', 'p', 'r', 's', 'f', 'b', 'g'] for goal nodes ('s', 'g', 'h') is not a valid path
+Path ['z', 'a', 't', 'a', 'z', 'a', 't'] for goal nodes ('z', 't', 'o') is not a valid path
+Path ['t', 'a', 's', 'r', 'p', 'r', 's', 'a', 't', 'a', 'z'] for goal nodes ('t', 'p', 'g') is not a valid path
+Path ['s', 'r', 'c'] for goal nodes ('a', 's', 'c') is not a valid path
+Path ['g', 'b', 'u', 'v', 'i', 'v', 'u', 'b', 'g', 'b', 'u', 'v', 'i'] for goal nodes ('g', 'i', 'n') is not a valid path
+Path ['t', 'a', 's', 'r', 's', 'a', 't', 'a', 's', 'r'] for goal nodes ('t', 'r', 'l') is not a valid path
+Path ['r', 'p', 'b', 'u', 'h', 'u', 'b', 'p', 'r', 's', 'r'] for goal nodes ('r', 'h', 'v') is not a valid path
+Path ['s', 'r', 'p', 'b'] for goal nodes ('a', 's', 'b') is not a valid path
+Path ['c', 'p', 'b', 'u', 'h', 'e', 'h', 'u', 'b', 'p', 'c', 'd', 'm'] for goal nodes ('c', 'e', 'h') is not a valid path
+Path ['g', 'b', 'p', 'c', 'd', 'm', 'd', 'c', 'p', 'b', 'g', 'b', 'u', 'h'] for goal nodes ('g', 'm', 'v') is not a valid path
+Path ['s', 'r', 'p', 'b', 'u', 'h', 'e', 'h', 'u', 'b', 'p', 'r', 's', 'o'] for goal nodes ('s', 'e', 'h') is not a valid path
+Path ['t', 'a', 's', 'r', 'p', 'b', 'u', 'h', 'e', 'h', 'u', 'b', 'p', 'r', 's', 'a', 't', 'a', 's', 'r', 'p', 'b', 'u', 'h', 'e'] for goal nodes ('t', 'e', 'o') is not a valid path
+Path ['s', 'r', 'p', 'b', 'u', 'h', 'e'] for goal nodes ('a', 's', 'e') is not a valid path
+Path ['r', 'p', 'b', 'u', 'h', 'e', 'h', 'u', 'b', 'p', 'r', 's', 'r'] for goal nodes ('r', 'e', 'v') is not a valid path
+Path ['b', 'u', 'v', 'u', 'b', 'u', 'v'] for goal nodes ('b', 'v', 'n') is not a valid path
+Path ['z', 'a', 's', 'r', 'p', 'r', 's', 'a', 'z', 'a', 't'] for goal nodes ('z', 'p', 'f') is not a valid path
+Path ['t', 'a', 's', 'r', 'p', 'b', 'u', 'b', 'p', 'r', 's', 'a', 't', 'a', 's', 'r', 'p', 'b', 'u'] for goal nodes ('t', 'u', 'c') is not a valid path
+Path ['z', 'a', 's', 'r', 'p', 'b', 'p', 'r', 's', 'a', 'z', 'a', 's', 'r', 'p', 'b'] for goal nodes ('z', 'b', 'c') is not a valid path
+Path ['t', 'a', 's', 'r', 'p', 'b', 'u', 'h', 'u', 'b', 'p', 'r', 's', 'a', 't', 'a', 's', 'r', 'p', 'b', 'u', 'h'] for goal nodes ('t', 'h', 'v') is not a valid path
+Path ['a', 's', 'r', 'p', 'b', 'u', 'h', 'e', 'h', 'u', 'b', 'p', 'r', 's', 'a', 't', 'l'] for goal nodes ('a', 'e', 'i') is not a valid path
+Path ['g', 'b', 'p', 'c', 'p', 'b', 'g', 'b', 'u'] for goal nodes ('g', 'c', 'h') is not a valid path
+Path ['s', 'a', 't', 'a', 's', 'f'] for goal nodes ('s', 't', 'l') is not a valid path
+Path ['t', 'a', 's', 'r', 'p', 'b', 'u', 'v', 'u', 'b', 'p', 'r', 's', 'a', 't', 'a', 's', 'r', 'p', 'b', 'u', 'v'] for goal nodes ('t', 'v', 'l') is not a valid path
+Path ['b', 'u', 'v', 'i', 'v', 'u', 'b', 'g'] for goal nodes ('b', 'i', 'n') is not a valid path
+test_tri_ucs_romania - 159 tests failed.
