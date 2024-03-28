@@ -1,2 +1,2 @@
 # AI
-ai class hw
+Realted course work for AI class
